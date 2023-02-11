@@ -1,14 +1,19 @@
 # 2022 iThome鐵人賽NFT
----
 
-這個專案主要寫出一個合約並將自己製作的NFT並上鏈!大家看完文章也可以鑄造屬於這邊文章的限定NFT。
-除此之外也會簡單的去了解區塊鏈的原理，比特幣和乙太幣的應用，現今虛擬貨幣交易方式，去中心化交易體系。
-實際體驗購買虛擬貨幣和NFT的過程，介紹交易所並認識冷錢包和熱錢包，分析現今NFT市場，研究智能合約，理解並且分析。
+這個專案主要寫出一個合約並將自己製作的NFT並上鏈!大家看完文章也可以鑄造屬於這邊文章的限定NFT。  
+除此之外也會簡單的去了解區塊鏈的原理，比特幣和乙太幣的應用，現今虛擬貨幣交易方式，去中心化交易體系。  
+實際體驗購買虛擬貨幣和NFT的過程，介紹交易所並認識冷錢包和熱錢包，分析現今NFT市場，研究智能合約，理解並且分析。  
 
----
 # 成果
+![image](https://github.com/kai-1-k/IT_ironman/blob/master/Imma%20man%20NFT)
+[Opensea 連結](https://opensea.io/collection/imma-man-nft)  
+[Etherscan 鑄造連結](https://etherscan.io/address/0xfa21b2d4a50517b792e026c336205ac838c0524e#writeContract)
+# 專案功能
+(本專案使用Openzeppelin開源網站開發)
+- 可自訂自己的圖片
+- 可限制每人鑄造數量
+- 可自訂最大鑄造數量
 
----
 # 比賽文章目錄
  ### |認識區塊鏈及NFT|
 - Day 01 | [目錄 | 選題動機](https://ithelp.ithome.com.tw/articles/10290452)
@@ -44,3 +49,9 @@
 - Day 28 | [一個NFT不夠?直接給你一組!三分鐘學會製作一系列 NFT!（二）程式編譯](https://ithelp.ithome.com.tw/articles/10305449)
 - Day 29 | [分散持有者!限制mint數量！讓大家都可以擁有你的NFT!](https://ithelp.ithome.com.tw/articles/10305449)
 - Day 30 | [完賽心得](https://ithelp.ithome.com.tw/articles/10304555)
+
+---
+# 結語
+希望大家都能夠擁有自己的NFT，如果要購買其他NFT時請先做好功課，預祝各位在web3.0的路上旅途愉快。  
+如果有想要討論或者建議小弟的歡迎告訴我 97007ken@gmail.com  
+各位的回饋都是我繼續做開源分享的動力
